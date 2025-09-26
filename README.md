@@ -18,7 +18,7 @@ PUT /users/ → Update a user
 DELETE /users/ → Delete a user
 ▶ How to Run
 1. Clone the repo
-bash git clone  cd task4-flask-rest-api
+bash git clone:https://github.com/ritheesh-chittimalla/Task4-REST-API/tree/main cd task4-flask-rest-api
 
 2. Install dependencies
 bash pip install -r requirements.txt
